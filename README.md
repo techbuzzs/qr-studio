@@ -31,3 +31,7 @@ Vercel serves the generated `dist` directory.
 ## Credits
 
 Built by [Tech Buzzs](https://github.com/techbuzzs). Uses qrcode, under their respective open source licenses.
+
+## Live website
+
+[Open qr-studio](https://qr-studio-orpin-ten.vercel.app)
